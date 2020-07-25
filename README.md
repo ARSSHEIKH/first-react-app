@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Deployed on surge
-url: http://my-react-app1.surge.sh/
+
+### Deployed on surge
+
+  url: http://my-react-app1.surge.sh/
+
 ## Available Scripts
 
 In the project directory, you can run:
